@@ -1,11 +1,10 @@
 package com.example.android_mvvm_with_room_database.view.activity;
 
-import android.arch.lifecycle.ViewModelProviders;
-import android.databinding.DataBindingUtil;
-import android.support.v7.app.AppCompatActivity;
+import androidx.lifecycle.ViewModelProviders;
+import androidx.databinding.DataBindingUtil;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Toast;
 
 import com.example.android_mvvm_with_room_database.R;
 import com.example.android_mvvm_with_room_database.databinding.ActivityEditBinding;

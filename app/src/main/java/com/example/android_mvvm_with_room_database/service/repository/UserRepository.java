@@ -1,7 +1,7 @@
 package com.example.android_mvvm_with_room_database.service.repository;
 
 import android.app.Application;
-import android.arch.lifecycle.LiveData;
+import androidx.lifecycle.LiveData;
 import android.os.AsyncTask;
 
 import com.example.android_mvvm_with_room_database.db_utilities.UserDao;

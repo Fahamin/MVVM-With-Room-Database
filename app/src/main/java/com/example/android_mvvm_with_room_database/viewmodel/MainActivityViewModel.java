@@ -1,9 +1,9 @@
 package com.example.android_mvvm_with_room_database.viewmodel;
 
 import android.app.Application;
-import android.arch.lifecycle.AndroidViewModel;
-import android.arch.lifecycle.LiveData;
-import android.support.annotation.NonNull;
+import androidx.lifecycle.AndroidViewModel;
+import androidx.lifecycle.LiveData;
+import androidx.annotation.NonNull;
 
 import com.example.android_mvvm_with_room_database.service.model.User;
 import com.example.android_mvvm_with_room_database.service.repository.UserRepository;

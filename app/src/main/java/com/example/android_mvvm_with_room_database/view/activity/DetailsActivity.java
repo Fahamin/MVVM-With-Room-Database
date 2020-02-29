@@ -1,9 +1,8 @@
 package com.example.android_mvvm_with_room_database.view.activity;
 
-import android.databinding.DataBindingUtil;
-import android.support.v7.app.AppCompatActivity;
+import androidx.databinding.DataBindingUtil;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
-import android.widget.Toast;
 
 import com.example.android_mvvm_with_room_database.R;
 import com.example.android_mvvm_with_room_database.databinding.ActivityDetailsBinding;
